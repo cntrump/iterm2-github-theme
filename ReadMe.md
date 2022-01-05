@@ -14,6 +14,10 @@ Use thin strokes for anti-aliased text: `Never`
 
 Font -> Line spacing: `102` (default: `100`)
 
+Profiles -> Terminal -> Scrollback Buffer:
+
+Scrollback lines: `Unlimited scrollback`
+
 ## Dark theme
 
 ![](dark.png)
